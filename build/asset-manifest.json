@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51db2504.css",
+    "main.js": "/static/js/main.fc0e593d.js",
+    "static/media/start-image.jpg": "/static/media/start-image.9854bb346812e442a427.jpg",
+    "static/media/Poppins-Regular.otf": "/static/media/Poppins-Regular.1421a94e04ced16b1ffc.otf",
+    "static/media/chef-hat.png": "/static/media/chef-hat.cea4fc4e68db0e8eeaef.png",
+    "index.html": "/index.html",
+    "main.51db2504.css.map": "/static/css/main.51db2504.css.map",
+    "main.fc0e593d.js.map": "/static/js/main.fc0e593d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51db2504.css",
+    "static/js/main.fc0e593d.js"
+  ]
+}
